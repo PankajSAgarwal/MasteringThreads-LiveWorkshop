@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f23efe-62a6-4deb-86d9-76fc998d7352" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOWZqHtGSapHF6z4zK6VgWojWt" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.HorseRace">
+    <configuration name="BankAccountWithTwoLocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.BankAccountWithTwoLocks" />
+      <module name="LiveWorkShop-Day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.DateFormatDemo" />
+      <module name="LiveWorkShop-Day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorseRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masteringthreads.ch2_basics_of_threads.exercise_2_2.HorseRace" />
+      <module name="LiveWorkShop-Day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masteringthreads.ch2_basics_of_threads.exercise_2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCreationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.ThreadCreationDemo" />
+      <module name="LiveWorkShop-Day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LiveWorkShop-Day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masteringthreads.ch2_basics_of_threads.exercise_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="masteringthreads.ch2_basics_of_threads.exercise_2_1" />
+      <option name="MAIN_CLASS_NAME" value="masteringthreads.ch2_basics_of_threads.exercise_2_1.ThreadPoolTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HorseRace" />
+        <item itemvalue="JUnit.ThreadPoolTest" />
+        <item itemvalue="Application.DateFormatDemo" />
+        <item itemvalue="Application.ThreadCreationDemo" />
+        <item itemvalue="Application.BankAccountWithTwoLocks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f23efe-62a6-4deb-86d9-76fc998d7352" name="Default Changelist" comment="" />
+      <created>1596089683883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596089683883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596109043511">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1596109043511" />
+    <state x="533" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1596293446345">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1596108425035" />
+    <state x="533" y="193" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1596293446345" />
+    <state x="492" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596292391117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="492" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1596292391117" />
+    <state width="1398" height="178" key="GridCell.Tab.0.bottom" timestamp="1596347574040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596138312893" />
+    <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596347574040" />
+    <state width="1398" height="178" key="GridCell.Tab.0.center" timestamp="1596347574039">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596138312892" />
+    <state width="1398" height="178" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596347574039" />
+    <state width="1398" height="178" key="GridCell.Tab.0.left" timestamp="1596347574039">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596138312890" />
+    <state width="1398" height="178" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596347574039" />
+    <state width="1398" height="178" key="GridCell.Tab.0.right" timestamp="1596347574039">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596138312892" />
+    <state width="1398" height="178" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596347574039" />
+    <state width="1398" height="556" key="GridCell.Tab.1.bottom" timestamp="1596296179905">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="556" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596296179905" />
+    <state width="1398" height="556" key="GridCell.Tab.1.center" timestamp="1596296179904">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="556" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1596296179904" />
+    <state width="1398" height="556" key="GridCell.Tab.1.left" timestamp="1596296179904">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="556" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1596296179904" />
+    <state width="1398" height="556" key="GridCell.Tab.1.right" timestamp="1596296179905">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="556" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1596296179905" />
+    <state x="208" y="44" key="SettingsEditor" timestamp="1596346699186">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596346699186" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1596346462493">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1596346462493" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596292448638">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1596292448638" />
+    <state x="458" y="222" key="extract.method.dialog" timestamp="1596346928554">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="222" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1596346928554" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1596346906062">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1596346906062" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/playground/BankAccountWithTwoLocks.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/playground/BankAccountWithTwoLocks.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
