@@ -1,0 +1,6 @@
+# No of avilable processors
+
+java -XX:+PrintFlagsFinal -version | grep Active
+
+# To limit the no of available processors used in java program use below in VM Options
+-XX:ActiveProcessorCount = 3

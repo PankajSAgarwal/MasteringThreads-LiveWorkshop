@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="CCaseConfig">
+    <option name="checkoutReserved" value="false" />
+    <option name="markExternalChangeAsUpToDate" value="true" />
+    <option name="checkInUseHijack" value="true" />
+    <option name="useUcmModel" value="true" />
+    <option name="isOffline" value="false" />
+    <option name="synchOutside" value="false" />
+    <option name="isHistoryResticted" value="true" />
+    <option name="useIdenticalSwitch" value="true" />
+    <option name="synchActivitiesOnRefresh" value="true" />
+    <option name="lastScr" value="" />
+    <option name="scrTextFileName" value="" />
+    <option name="historyRevisionsNumber" value="4" />
+  </component>
+  <component name="ChangeBrowserSettings">
+    <option name="MAIN_SPLITTER_PROPORTION" value="0.3" />
+    <option name="MESSAGES_SPLITTER_PROPORTION" value="0.8" />
+    <option name="USE_DATE_BEFORE_FILTER" value="false" />
+    <option name="USE_DATE_AFTER_FILTER" value="false" />
+    <option name="USE_CHANGE_BEFORE_FILTER" value="false" />
+    <option name="USE_CHANGE_AFTER_FILTER" value="false" />
+    <option name="DATE_BEFORE" value="" />
+    <option name="DATE_AFTER" value="" />
+    <option name="CHANGE_BEFORE" value="" />
+    <option name="CHANGE_AFTER" value="" />
+    <option name="USE_USER_FILTER" value="false" />
+    <option name="USER" value="" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfb416ad-ed37-417a-9b3a-9c34c2fd3124" name="Default" comment="Simplified first exercise" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="Cvs2Configuration">
+    <option name="PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="MERGING_MODE" value="0" />
+    <option name="MERGE_WITH_BRANCH1_NAME" value="HEAD" />
+    <option name="MERGE_WITH_BRANCH2_NAME" value="HEAD" />
+    <option name="RESET_STICKY" value="false" />
+    <option name="CREATE_NEW_DIRECTORIES" value="true" />
+    <option name="DEFAULT_TEXT_FILE_SUBSTITUTION" value="kv" />
+    <option name="PROCESS_UNKNOWN_FILES" value="false" />
+    <option name="PROCESS_DELETED_FILES" value="false" />
+    <option name="PROCESS_IGNORED_FILES" value="false" />
+    <option name="RESERVED_EDIT" value="false" />
+    <option name="CHECKOUT_DATE_OR_REVISION_SETTINGS">
+      <value>
+        <option name="BRANCH" value="" />
+        <option name="DATE" value="" />
+        <option name="USE_BRANCH" value="false" />
+        <option name="USE_DATE" value="false" />
+      </value>
+    </option>
+    <option name="UPDATE_DATE_OR_REVISION_SETTINGS">
+      <value>
+        <option name="BRANCH" value="" />
+        <option name="DATE" value="" />
+        <option name="USE_BRANCH" value="false" />
+        <option name="USE_DATE" value="false" />
+      </value>
+    </option>
+    <option name="SHOW_CHANGES_REVISION_SETTINGS">
+      <value>
+        <option name="BRANCH" value="" />
+        <option name="DATE" value="" />
+        <option name="USE_BRANCH" value="false" />
+        <option name="USE_DATE" value="false" />
+      </value>
+    </option>
+    <option name="SHOW_OUTPUT" value="false" />
+    <option name="ADD_WATCH_INDEX" value="0" />
+    <option name="REMOVE_WATCH_INDEX" value="0" />
+    <option name="UPDATE_KEYWORD_SUBSTITUTION" />
+    <option name="MAKE_NEW_FILES_READONLY" value="false" />
+    <option name="SHOW_CORRUPTED_PROJECT_FILES" value="0" />
+    <option name="TAG_AFTER_PROJECT_COMMIT" value="false" />
+    <option name="OVERRIDE_EXISTING_TAG_FOR_PROJECT" value="true" />
+    <option name="TAG_AFTER_PROJECT_COMMIT_NAME" value="" />
+    <option name="CLEAN_COPY" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1741511340">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="classpath" value="1" />
+          <entry key="editorconfig" value="1" />
+          <entry key="java" value="178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Eclipse" value="1" />
+          <entry key="JAVA" value="194" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1710" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2155" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesProjectViewPane">
+    <subPane subId="Master">
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" />
+          <option name="myItemType" value="com.intellij.ide.favoritesTreeView.FavoritesTreeNodeDescriptor" />
+        </PATH_ELEMENT>
+      </PATH>
+    </subPane>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="SORT_ALPHABETICALLY" value="false" />
+    <option name="HIDE_CLASSES_WHERE_METHOD_NOT_IMPLEMENTED" value="false" />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="PackagesPane">
+    <subPane>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="masteringthreads.ipr" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </subPane>
+  </component>
+  <component name="PerforceChangeBrowserSettings">
+    <option name="USE_CLIENT_FILTER" value="true" />
+    <option name="CLIENT" value="" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="useNativeApi" value="true" />
+  </component>
+  <component name="ProjectId" id="1dLjsjIqtixayBVmKzTjEVup0um" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 10Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Java 10Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RedundantExplicitVariableType</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectPane">
+    <subPane>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master/threads" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master/threads" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="PsiDirectory:/Users/heinz/svn/courses/master/samples/Master/src/eu/javaspecialists/course/master/threads/exercise211" />
+          <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </subPane>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunManagerConfig.compileBeforeRunning" value="true" />
+    <property name="RunManagerConfig.showSettingsBeforeRunnig" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549704957732" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/masteringthreads.ipr" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="master.ch06_datastructs.exercise631" />
+      <recent name="eu.javaspecialists.course.master.util" />
+      <recent name="eu.javaspecialists.course.master.optimizations.exercise831" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="playground.FairnessTest" />
+      <recent name="playground.MemoryPuzzle" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="masteringthreads.ch4_applied_threading_techniques" />
+      <recent name="masteringthreads.ch3_secrets_of_concurrency" />
+      <recent name="masteringthreads.basicsofthreads" />
+      <recent name="master.util" />
+      <recent name="eu.javaspecialists.course.master.datastructs.solution622d" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="masteringthreads.ch5_threading_problems.exercise_5_1" />
+      <recent name="playground" />
+      <recent name="masteringthreads.ch3_the_secrets_of_concurrency.solution_3_2" />
+      <recent name="master.ch08_optimizations.solution831" />
+      <recent name="master.ch08_optimizations.solution811" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/masteringthreads/ch4_applied_threading_techniques/exercise_4_2" />
+      <recent name="$PROJECT_DIR$/src/masteringthreads/ch4_applied_threading_techniques/solution_4_4" />
+      <recent name="$PROJECT_DIR$/src/master/ch06_datastructs/exercise631" />
+      <recent name="$PROJECT_DIR$/src/master/ch02_threads/exercise231" />
+      <recent name="$PROJECT_DIR$/src/master/ch02_threads/exercise221" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StarvingReader">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="C:/Program Files/JetBrains/IntelliJ IDEA 6.0 Beta/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDay1" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.JavaDay1" />
+      <module name="masteringthreads" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterClassReentrantLockTest" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masteringthreads.ch5_threading_problems.exercise_5_1.PrinterClassReentrantLockTest" />
+      <module name="masteringthreads" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masteringthreads.ch5_threading_problems.exercise_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterClassTest" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masteringthreads.ch5_threading_problems.exercise_5_1.PrinterClassTest" />
+      <module name="masteringthreads" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masteringthreads.ch5_threading_problems.exercise_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTaskCaller" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masteringthreads.ch5_threading_problems.exercise_5_2.ProcessTaskCaller" />
+      <module name="masteringthreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masteringthreads.ch5_threading_problems.exercise_5_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarvingReader" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.StarvingReader" />
+      <module name="masteringthreads" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application" editBeforeRun="true">
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Profile ">
+        <option name="myExternalizedOptions" value="&#10;additional-options2=onexit\=snapshot&#10;" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit" editBeforeRun="true">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <RunnerSettings RunnerId="Profile ">
+        <option name="myExternalizedOptions" value="&#10;additional-options2=onexit\=snapshot&#10;" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PrinterClassTest" />
+      <item itemvalue="Application.PrinterClassReentrantLockTest" />
+      <item itemvalue="Application.ProcessTaskCaller" />
+      <item itemvalue="Application.JavaDay1" />
+      <item itemvalue="Application.StarvingReader" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarvingReader" />
+        <item itemvalue="Application.JavaDay1" />
+        <item itemvalue="Application.ProcessTaskCaller" />
+        <item itemvalue="Application.PrinterClassTest" />
+        <item itemvalue="Application.PrinterClassReentrantLockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScopeViewComponent">
+    <subPane subId="Project">
+      <PATH>
+        <PATH_ELEMENT USER_OBJECT="Root">
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="" />
+        </PATH_ELEMENT>
+      </PATH>
+    </subPane>
+  </component>
+  <component name="StarteamConfiguration">
+    <option name="SERVER" value="" />
+    <option name="PORT" value="49201" />
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="PROJECT" value="" />
+    <option name="VIEW" value="" />
+    <option name="ALTERNATIVE_WORKING_PATH" value="" />
+    <option name="LOCK_ON_CHECKOUT" value="false" />
+    <option name="UNLOCK_ON_CHECKIN" value="false" />
+  </component>
+  <component name="Struts Assistant">
+    <option name="showInputs" value="true" />
+    <option name="resources">
+      <value>
+        <option name="strutsPath" />
+        <option name="strutsHelp" />
+      </value>
+    </option>
+    <option name="selectedTaglibs" />
+    <option name="selectedTaglibs" />
+    <option name="myStrutsValidationEnabled" value="true" />
+    <option name="myTilesValidationEnabled" value="true" />
+    <option name="myValidatorValidationEnabled" value="true" />
+    <option name="myReportErrorsAsWarnings" value="true" />
+  </component>
+  <component name="SvnChangesBrowserSettings">
+    <option name="USE_AUTHOR_FIELD" value="true" />
+    <option name="AUTHOR" value="" />
+    <option name="LOCATION" value="" />
+    <option name="USE_PROJECT_SETTINGS" value="true" />
+    <option name="USE_ALTERNATE_LOCATION" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb416ad-ed37-417a-9b3a-9c34c2fd3124" name="Default" comment="" />
+      <created>1336550966236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1336550966236</updated>
+      <workItem from="1418304504564" duration="1042000" />
+      <workItem from="1418373650763" duration="29000" />
+      <workItem from="1449673982946" duration="735000" />
+      <workItem from="1449826900283" duration="23000" />
+      <workItem from="1547542102661" duration="3543000" />
+      <workItem from="1547635598133" duration="385000" />
+      <workItem from="1547636538285" duration="4201000" />
+      <workItem from="1547721928012" duration="17000" />
+      <workItem from="1547821395535" duration="4299000" />
+      <workItem from="1548747806108" duration="790000" />
+      <workItem from="1549704713510" duration="786000" />
+      <workItem from="1549721738989" duration="3000" />
+      <workItem from="1592211483824" duration="3929000" />
+      <workItem from="1592298066568" duration="15146000" />
+      <workItem from="1592409074213" duration="16000" />
+      <workItem from="1592470735288" duration="6755000" />
+      <workItem from="1592501961419" duration="608000" />
+      <workItem from="1592557196364" duration="4874000" />
+      <workItem from="1592582012681" duration="103000" />
+      <workItem from="1592586122463" duration="583000" />
+      <workItem from="1592901327041" duration="4276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VCS.FileViewConfiguration">
+    <option name="SELECTED_STATUSES" value="DEFAULT" />
+    <option name="SELECTED_COLUMNS" value="DEFAULT" />
+    <option name="SHOW_FILTERS" value="true" />
+    <option name="CUSTOMIZE_VIEW" value="true" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Simplified first exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplified first exercise" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="0" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1260" y="158" key="#BankAccount" timestamp="1592217987361">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#BankAccount/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592217987361" />
+    <state x="-1260" y="158" key="#BankAccountLock" timestamp="1592218591281">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#BankAccountLock/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592218591281" />
+    <state x="-1352" y="158" key="#BankAccountTest" timestamp="1592389377449">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1352" y="158" key="#BankAccountTest/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592389377449" />
+    <state x="-1260" y="158" key="#BigLoop" timestamp="1592386776372">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#BigLoop/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592386776372" />
+    <state x="-1348" y="158" key="#CASCounterTest" timestamp="1592385607006">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1348" y="158" key="#CASCounterTest/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592385607006" />
+    <state x="-1259" y="158" key="#DeadlockExample" timestamp="1592558683394">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1259" y="158" key="#DeadlockExample/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592558683394" />
+    <state x="-1358" y="158" key="#DiningPhilosopher" timestamp="1592472170815">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1358" y="158" key="#DiningPhilosopher/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592472170815" />
+    <state x="-1260" y="158" key="#EmptyLoops" timestamp="1592388459436">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#EmptyLoops/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592388459436" />
+    <state x="-1260" y="158" key="#FairnessTest" timestamp="1592477106177">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#FairnessTest/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592477106177" />
+    <state x="-1260" y="146" key="#HaberdasheryDemo" timestamp="1592304169486">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="146" key="#HaberdasheryDemo/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592304169486" />
+    <state x="-1296" y="146" key="#HorseRace" timestamp="1592300341527">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1296" y="146" key="#HorseRace/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592300341526" />
+    <state x="-1361" y="158" key="#HouseDrawingTest" timestamp="1592472851378">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1361" y="158" key="#HouseDrawingTest/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592472851378" />
+    <state x="-1260" y="146" key="#IntegerConstruction" timestamp="1592300900694">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="146" key="#IntegerConstruction/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592300900694" />
+    <state x="-1260" y="146" key="#Interruptions" timestamp="1592302588290">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="146" key="#Interruptions/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592302588290" />
+    <state x="-1259" y="158" key="#JavaDay1" timestamp="1592560253245">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1259" y="158" key="#JavaDay1/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592560253245" />
+    <state x="-1260" y="158" key="#LotsOfHashMaps" timestamp="1592476119494">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#LotsOfHashMaps/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592476119494" />
+    <state x="-1260" y="79" key="#MemoryPuzzle" timestamp="1592474047791">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="79" key="#MemoryPuzzle/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592474047791" />
+    <state x="-1260" y="79" key="#MemoryPuzzle/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592392757427" />
+    <state x="-1260" y="158" key="#MemoryPuzzle2" timestamp="1592393719626">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#MemoryPuzzle2/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592393719626" />
+    <state x="-1260" y="56" key="#MemoryPuzzle_(1)" timestamp="1592393456895">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="56" key="#MemoryPuzzle_(1)/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592393456895" />
+    <state x="-1365" y="158" key="#PrinterClassReentrantLockTest" timestamp="1592558949557">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1365" y="158" key="#PrinterClassReentrantLockTest/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592558949557" />
+    <state x="-1318" y="158" key="#PrinterClassTest" timestamp="1592559125597">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1318" y="158" key="#PrinterClassTest/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592559125597" />
+    <state x="-1326" y="158" key="#ProcessTaskCaller" timestamp="1592560086666">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1326" y="158" key="#ProcessTaskCaller/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592560086666" />
+    <state x="-1260" y="146" key="#ProcessorsDemo" timestamp="1592303925082">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="146" key="#ProcessorsDemo/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592303925082" />
+    <state x="-1472" y="20" key="#Project_Structure" timestamp="1592393377099">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1472" y="20" key="#Project_Structure/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592393377099" />
+    <state x="-1259" y="158" key="#StarvingReader" timestamp="1592562682890">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1259" y="158" key="#StarvingReader/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592562682890" />
+    <state x="-1260" y="158" key="#ThreadCreation" timestamp="1592213175046">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#ThreadCreation/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592213175046" />
+    <state x="-1260" y="158" key="#ThreadLocalVirtualThreadDemo" timestamp="1592391710568">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#ThreadLocalVirtualThreadDemo/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592391710568" />
+    <state x="-1260" y="158" key="#ThreadPoolStartTest" timestamp="1592388740939">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1260" y="158" key="#ThreadPoolStartTest/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592388740939" />
+    <state x="-1369" y="158" key="#ThreadPoolTest" timestamp="1592471686027">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1369" y="158" key="#ThreadPoolTest/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592471686027" />
+    <state x="-1369" y="158" key="#ThreadPoolTest/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592384916179" />
+    <state x="-1369" y="158" key="#ThreadPoolTest_(1)" timestamp="1592471818624">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1369" y="158" key="#ThreadPoolTest_(1)/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592471818624" />
+    <state x="-1369" y="158" key="#ThreadPoolTest_(1)/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592299753101" />
+    <state x="-1221" y="302" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592558305177">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1221" y="302" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592558305177" />
+    <state x="-1147" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1592476773695">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1147" y="242" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592476773695" />
+    <state x="-1147" y="242" key="#com.intellij.ide.util.MemberChooser/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592298331764" />
+    <state width="1876" height="428" key="GridCell.Tab.0.bottom" timestamp="1592567676863">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1876" height="501" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592562706544" />
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592394099505" />
+    <state width="1876" height="428" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592567676863" />
+    <state width="1876" height="428" key="GridCell.Tab.0.center" timestamp="1592567676862">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1876" height="501" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592562706543" />
+    <state width="1878" height="253" key="GridCell.Tab.0.center/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592394099502" />
+    <state width="1876" height="428" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592567676862" />
+    <state width="1876" height="428" key="GridCell.Tab.0.left" timestamp="1592567676862">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1876" height="501" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592562706542" />
+    <state width="1878" height="253" key="GridCell.Tab.0.left/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592394099500" />
+    <state width="1876" height="428" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592567676862" />
+    <state width="1876" height="428" key="GridCell.Tab.0.right" timestamp="1592567676862">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1876" height="501" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592562706544" />
+    <state width="1878" height="253" key="GridCell.Tab.0.right/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592394099503" />
+    <state width="1876" height="428" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592567676862" />
+    <state width="1876" height="469" key="GridCell.Tab.1.bottom" timestamp="1592557799842">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="469" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592557799842" />
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592389335858" />
+    <state width="1876" height="469" key="GridCell.Tab.1.center" timestamp="1592557799841">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="469" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592557799841" />
+    <state width="1878" height="436" key="GridCell.Tab.1.center/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592389335855" />
+    <state width="1876" height="469" key="GridCell.Tab.1.left" timestamp="1592557799841">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="469" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592557799841" />
+    <state width="1878" height="436" key="GridCell.Tab.1.left/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592389335854" />
+    <state width="1876" height="469" key="GridCell.Tab.1.right" timestamp="1592557799842">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="469" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592557799842" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592389335857" />
+    <state x="-1472" y="121" key="SettingsEditor" timestamp="1593073357456">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1472" y="121" key="SettingsEditor/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1593073357456" />
+    <state x="-1472" y="121" key="SettingsEditor/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592393452752" />
+    <state x="-1230" y="279" width="549" height="524" key="StructurePopup" timestamp="1592478178743">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="279" width="549" height="524" key="StructurePopup/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592478178743" />
+    <state x="-1222" y="273" key="extract.method.dialog" timestamp="1592473747312">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="273" key="extract.method.dialog/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592473747312" />
+    <state x="-1222" y="273" key="extract.method.dialog/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592391439905" />
+    <state x="-1394" y="148" width="897" height="804" key="find.popup" timestamp="1592586164616">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1394" y="148" width="897" height="804" key="find.popup/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592586164616" />
+    <state x="-1711" y="17" key="new project wizard" timestamp="1593093736194">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1711" y="17" key="new project wizard/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@0.23.1440.877" timestamp="1593093736194" />
+    <state x="-1537" y="61" key="new project wizard/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592393363064" />
+    <state x="511" y="103" key="new project wizard/0.23.2560.1417@0.23.2560.1417" timestamp="1592485356155" />
+    <state x="-1295" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1592478174800">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="235" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1080/0.23.1440.877/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1592478174800" />
+    <state x="-1295" y="235" width="670" height="676" key="search.everywhere.popup/-3840.0.1920.1080/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1592303125930" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/playground/BankAccount.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/playground/BankAccount.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/masteringthreads/ch3_the_secrets_of_concurrency/exercise_3_3/CASCounter.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/masteringthreads/ch4_applied_threading_techniques/exercise_4_4/HouseDrawingTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable" proportions="" version="1">
+    <option name="myLastEditedConfigurable" />
+  </component>
+  <component name="com.intellij.openapi.roots.ui.configuration.projectRoot.ProjectRootMasterDetailsConfigurable" proportions="0.16666667" version="1">
+    <option name="myPlainMode" value="false" />
+    <option name="myLastEditedConfigurable" value="Project 'Master'" />
+  </component>
+  <component name="com.intellij.profile.ui.ErrorOptionsConfigurable" proportions="" version="1">
+    <option name="myLastEditedConfigurable" />
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="true" />
+    <aspect className="org.aspectj.ajdt.internal.compiler.CompilerAdapter">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/CompilerAdapter.class</aspect>
+    <aspect className="org.aspectj.ajdt.internal.compiler.lookup.AnonymousClassPublisher">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/lookup/AnonymousClassPublisher.class</aspect>
+    <aspect className="org.aspectj.ajdt.internal.compiler.lookup.OwningClassSupportForFieldBindings">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/lookup/OwningClassSupportForFieldBindings.class</aspect>
+    <aspect className="org.aspectj.ajdt.internal.compiler.lookup.OwningClassSupportForMethodBindings">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/lookup/OwningClassSupportForMethodBindings.class</aspect>
+    <aspect className="org.aspectj.ajdt.internal.compiler.lookup.WarnOnSwallowedException">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/lookup/WarnOnSwallowedException.class</aspect>
+    <aspect className="org.aspectj.ajdt.internal.compiler.parser.AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions">jar://file:/opt/aspectj/lib/aspectjtools.jar!/org/aspectj/ajdt/internal/compiler/parser/AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions.class</aspect>
+  </component>
+</project>

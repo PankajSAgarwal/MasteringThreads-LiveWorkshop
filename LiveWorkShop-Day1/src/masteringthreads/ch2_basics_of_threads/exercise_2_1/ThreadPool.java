@@ -1,6 +1,7 @@
 package masteringthreads.ch2_basics_of_threads.exercise_2_1;
 
 import java.util.LinkedList;
+import java.util.Objects;
 
 
 public class ThreadPool {
@@ -52,6 +53,7 @@ public class ThreadPool {
         // if the LinkedList is empty, we wait
         //
         // remove the first job from the LinkedList and return it
+        if(Thread.interrupted()) throw new InterruptedException();
         synchronized (tasks){
             while (tasks.isEmpty())
                 tasks.wait();
@@ -61,6 +63,7 @@ public class ThreadPool {
 
     public void submit(Runnable job) {
         // Add the job to the LinkedList and notifyAll
+        Objects.requireNonNull(job,"job==null");
         synchronized (tasks){
             tasks.add(job);
             tasks.notifyAll();
