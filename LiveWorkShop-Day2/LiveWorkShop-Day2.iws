@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d86296-7451-4e00-bc85-6b9fe140b4a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/playground/CpuTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/ProcessorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/ThreadCreationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/commands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LiveWorkShop-Day1/LiveWorkShop-Day1.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../LiveWorkShop-Day1/LiveWorkShop-Day1.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LiveWorkShop-Day1/LiveWorkShop-Day1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../LiveWorkShop-Day1/LiveWorkShop-Day1.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LiveWorkShop-Day1/src/masteringthreads/ch2_basics_of_threads/exercise_2_1/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LiveWorkShop-Day1/src/masteringthreads/ch2_basics_of_threads/exercise_2_1/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_1/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_1/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_2/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_3/CASCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_3_3/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveWorkShop-Day2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LiveWorkShop-Day2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveWorkShop-Day2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LiveWorkShop-Day2.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +38,13 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercise_3_3" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,8 +54,38 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="playground" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CpuTimes">
+  <component name="RunManager" selected="Application.CASCounterTest">
+    <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_3_2.BankAccountTest" />
+      <module name="LiveWorkShop-Day2" />
+      <option name="VM_PARAMETERS" value="-Xint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise_3_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CASCounterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_3_3.CASCounterTest" />
+      <module name="LiveWorkShop-Day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise_3_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CpuTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.CpuTimes" />
       <module name="LiveWorkShop-Day2" />
@@ -63,51 +99,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interruptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Interruptions" />
+    <configuration name="ThreadPoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LiveWorkShop-Day2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="exercise_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exercise_3_1" />
+      <option name="MAIN_CLASS_NAME" value="exercise_3_1.ThreadPoolTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.ProcessorsDemo" />
+    <configuration name="ThreadPoolTest.testForBackupBoolean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LiveWorkShop-Day2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="exercise_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exercise_3_1" />
+      <option name="MAIN_CLASS_NAME" value="exercise_3_1.ThreadPoolTest" />
+      <option name="METHOD_NAME" value="testForBackupBoolean" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadCreationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.ThreadCreationTest" />
-      <module name="LiveWorkShop-Day2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.BankAccountTest" />
+      <item itemvalue="Application.CpuTimes" />
+      <item itemvalue="JUnit.ThreadPoolTest" />
+      <item itemvalue="JUnit.ThreadPoolTest.testForBackupBoolean" />
+      <item itemvalue="Application.CASCounterTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CASCounterTest" />
+        <item itemvalue="Application.BankAccountTest" />
+        <item itemvalue="JUnit.ThreadPoolTest" />
+        <item itemvalue="JUnit.ThreadPoolTest.testForBackupBoolean" />
         <item itemvalue="Application.CpuTimes" />
-        <item itemvalue="Application.ProcessorsDemo" />
-        <item itemvalue="Application.ThreadCreationTest" />
-        <item itemvalue="Application.Interruptions" />
       </list>
     </recent_temporary>
   </component>
@@ -125,34 +161,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596601065216">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1596601065216" />
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1596513349661">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1596513349661" />
-    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1596518173291">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1596602379609">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596518173291" />
-    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1596518173290">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596602379609" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1596602379607">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596518173290" />
-    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1596518173290">
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596602379607" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1596602379607">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596518173290" />
-    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1596518173291">
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596602379607" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1596602379608">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596518173291" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596602379608" />
     <state x="208" y="44" key="SettingsEditor" timestamp="1596516663418">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596516663418" />
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1596510433404">
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1596598169531">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1596510433404" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1596598169531" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596598257073">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1596598257073" />
     <state x="458" y="222" key="extract.method.dialog" timestamp="1596513693273">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
